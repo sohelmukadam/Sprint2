@@ -1,0 +1,12 @@
+testRunner\OrderDetailsRunner.class
+testRunner\testAll.class
+testRunner\SignupRunner.class
+testRunner\DocumentDetailsRunner.class
+StepDefinitions\Steps.class
+pageFactory\ProfilePage.class
+pageFactory\testProfile.class
+pageFactory\Test_case.class
+pageFactory\SignupPage.class
+testRunner\LoginRunner.class
+testRunner\ProfileDetailsEditRunner.class
+testRunner\ProfileDetailsRunner.class
