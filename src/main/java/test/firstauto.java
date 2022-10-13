@@ -78,7 +78,7 @@ public class firstauto {
 		
 		
 		
-		//driver.quit();
+		driver.quit();
 	
 	}
 }
